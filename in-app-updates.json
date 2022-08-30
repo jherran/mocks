@@ -1,10 +1,6 @@
 {
 	"versions": [{
 			"version": "1.0.0",
-			"block": true
-		},
-		{
-			"version": "1.0.1",
 			"block": false
 		}
 	]
